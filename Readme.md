@@ -15,7 +15,7 @@ I am a:
 
 <!-- <img display="flex" flex-direction="row" src="./images/vscode.png" height=30px />     -->
 ![vs code](./images/vscode.png)
-<img src="./images/android.png" height=30px/>
+<img src="./images/android.png" />
 <img src="./images/eclipse.png" height=30px/>
 <img src="./images/intellij.png" height=30px/>
 <img src="./images/pycharm.jpg" height=30px/>
