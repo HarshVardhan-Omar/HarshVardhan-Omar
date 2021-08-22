@@ -18,7 +18,7 @@ I am a:
 #### Technologies I Use:
 
 <img align="left" src="./images/react.png" height=30px style="margin:0 5px">
-<img align="left" src="./images/django.png" height=25px>
+<img align="left" src="./images/django.png" height=30px>
 <img align="left" src="./images/js.png" height=30px>
 <img align="left" src="./images/flutter.png" height=30px>
 <img align="left" src="./images/nodejs.png" height=30px>
