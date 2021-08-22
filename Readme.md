@@ -9,19 +9,18 @@ I am a:
 #### IDE's Worked Upon:
 
 <img align="left" src="/images1/vscode.svg" height=30px >   
-<img align="left" src="images/android.png"height=30px >
-<img align="left" src="./images/eclipse.png" height=30px>
-<img align="left" src="./images/intellij.png" height=30px>
-<img align="left" src="./images/pycharm.jpg" height=30px>
+<img align="left" src="images1/android.svg"height=30px >
+<img align="left" src="./images1/eclipse.svg" height=30px>
+<img align="left" src="./images1/intellij.svg" height=30px>
+<img align="left" src="./images1/pycharm.svg" height=30px>
 <br/>
 
 #### Technologies I Use:
 
-<img align="left" src="./images/react.png" height=30px>
-<img align="left" src="./images/django.png" height=30px>
-<img align="left" src="./images/js.png" height=30px>
-<img align="left" src="./images/flutter.png" height=30px>
-<img align="left" src="./images/nodejs.png" height=30px>
+<img align="left" src="./images1/react.svg" height=30px>
+<img align="left" src="./images1/django.svg" height=30px>
+<img align="left" src="./images1/flutter.svg" height=30px>
+<img align="left" src="./image1/nodejs.svg" height=30px>
 <br/>
 
 #### More About Me:
