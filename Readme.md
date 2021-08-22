@@ -18,7 +18,7 @@ I am a:
 
 <img src="./images/react.png" height=30px/>
 <img src="./images/django.png" height=25px/>
-<img src="./images/js.png" height=30px/>
+&nbsp<img src="./images/js.png" height=30px/>
 &nbsp<img src="./images/flutter.png" height=30px/>
 &nbsp<img src="./images/nodejs.png" height=30px/>
 
@@ -27,6 +27,8 @@ I am a:
 - Always interested in any Open-Source Oppurtunity
 
 ## Contact Me:
+
+
 - Email - harsh@harshvardhanomar.me
 - Mobile - +91-7985715333
 - Alternate Email - harshvardhan181201@gmail.com
