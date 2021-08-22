@@ -9,6 +9,7 @@ I am a:
 #### IDE's Worked Upon:
 
 <!-- <img display="flex" flex-direction="row" src="./images/vscode.png" height=30px />     -->
+![vs code](./images/vscode.png)
 <img src="./images/android.png" height=30px/>
 <img src="./images/eclipse.png" height=30px/>
 <img src="./images/intellij.png" height=30px/>
