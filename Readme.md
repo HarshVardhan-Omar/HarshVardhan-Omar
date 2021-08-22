@@ -12,7 +12,7 @@ I am a:
 <img align="left" src="images1/android.svg"height=30px >
 <img align="left" src="./images1/eclipse.svg" height=30px>
 <img align="left" src="./images1/intellij.svg" height=30px>
-<img align="left" src="./images1/pycharm1.svg" height=30px>
+<img align="left" src="./images1/pycharm.svg" height=30px>
 <br/>
 
 #### Technologies I Use:
