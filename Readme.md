@@ -8,8 +8,8 @@ I am a:
 
 #### IDE's Worked Upon:
 
-<img align="left" src="./images/logos/visual-studio.svg" height=30px >   
-<img align="left" src="images/logos/nodejs.svg"height=30px style="margin:0 5px">
+<img align="left" src="./images/vscode.png" height=30px >   
+<img align="left" src="images/android.png"height=30px >
 <img align="left" src="./images/eclipse.png" height=30px>
 <img align="left" src="./images/intellij.png" height=30px>
 <img align="left" src="./images/pycharm.jpg" height=30px>
