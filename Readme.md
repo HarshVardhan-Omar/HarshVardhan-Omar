@@ -8,7 +8,7 @@ I am a:
 
 #### IDE's Worked Upon:
 
-<img align="left" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height=30px >   
+<img align="left" src="/images1/vscode.svg" height=30px >   
 <img align="left" src="images/android.png"height=30px >
 <img align="left" src="./images/eclipse.png" height=30px>
 <img align="left" src="./images/intellij.png" height=30px>
