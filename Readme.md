@@ -5,11 +5,6 @@ I am an Undergrad at HBTU Kanpur specialized in the field of **Information Techn
 I am a:
 - Web and Android Developer
 - Programmer
-<style>
-  alt=vs code{
-  height:10px;
-  }
-</style>
 
 #### IDE's Worked Upon:
 
@@ -22,7 +17,7 @@ I am a:
 
 #### Technologies I Use:
 
-<img src="./images/react.png" height=30px/>
+<!-- <img src="./images/react.png" height=30px/> -->
 <img src="./images/django.png" height=25px/>
 &nbsp<img src="./images/js.png" height=30px/>
 &nbsp<img src="./images/flutter.png" height=30px/>
