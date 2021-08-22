@@ -27,8 +27,6 @@ I am a:
 - Always interested in any Open-Source Oppurtunity
 
 ## Contact Me:
-
-
 - Email - harsh@harshvardhanomar.me
 - Mobile - +91-7985715333
 - Alternate Email - harshvardhan181201@gmail.com
