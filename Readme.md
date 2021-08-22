@@ -9,7 +9,7 @@ I am a:
 #### IDE's Worked Upon:
 
 <img src="./images/logos/visual-studio.svg" height=30px />   
-<img src="images/android.png"height=30px style="margin:0 5px"/>
+<img src="images/logos/nodejs.svg"height=30px style="margin:0 5px"/>
 <img src="./images/eclipse.png" height=30px/>
 <img src="./images/intellij.png" height=30px/>
 <img src="./images/pycharm.jpg" height=30px/>
