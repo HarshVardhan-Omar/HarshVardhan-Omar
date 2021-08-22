@@ -5,6 +5,11 @@ I am an Undergrad at HBTU Kanpur specialized in the field of **Information Techn
 I am a:
 - Web and Android Developer
 - Programmer
+<style>
+  alt=vs code{
+  height:10px;
+  }
+</style>
 
 #### IDE's Worked Upon:
 
