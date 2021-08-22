@@ -13,14 +13,15 @@ I am a:
 <img align="left" src="./images/eclipse.png" height=30px>
 <img align="left" src="./images/intellij.png" height=30px>
 <img align="left" src="./images/pycharm.jpg" height=30px>
+<br/>
 
 #### Technologies I Use:
 
 <!-- <img src="./images/react.png" height=30px/> -->
-<img src="./images/django.png" height=25px>
-&nbsp<img src="./images/js.png" height=30px>
-&nbsp<img src="./images/flutter.png" height=30px>
-&nbsp<img src="./images/nodejs.png" height=30px>
+<img align="left" src="./images/django.png" height=25px>
+<img align="left" src="./images/js.png" height=30px>
+<img align="left" src="./images/flutter.png" height=30px>
+<img align="left" src="./images/nodejs.png" height=30px>
 
 #### More About Me:
 - Curently Working as a Backend Developer on a College Student Portal
