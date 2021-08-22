@@ -18,7 +18,7 @@ I am a:
 
 <img src="./images/react.png" height=30px/>
 <img src="./images/django.png" height=25px/>
-&nbsp<img src="./images/js.png" height=30px/>
+<img src="./images/js.png" height=30px/>
 &nbsp<img src="./images/flutter.png" height=30px/>
 &nbsp<img src="./images/nodejs.png" height=30px/>
 
