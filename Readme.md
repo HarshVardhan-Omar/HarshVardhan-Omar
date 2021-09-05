@@ -30,8 +30,7 @@ I am a:
 ## Contact Me:
 
 
-- Email - harsh@harshvardhanomar.me
+- Email - harshvardhan181201@gmail.com
 - Mobile - +91-7985715333
-- Alternate Email - harshvardhan181201@gmail.com
 - Location - Kanpur/India
 
