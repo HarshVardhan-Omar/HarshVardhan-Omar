@@ -18,6 +18,7 @@ I am a:
 #### Technologies I Use:
 
 <img align="left" src="./images1/react.svg" height=30px>
+<img align="left" src="./images1/NextJS.svg" height=30px>
 <img align="left" src="./images1/django.svg" height=30px>
 <img align="left" src="./images1/flutter.svg" height=30px>
 <img align="left" src="./images1/nodejs.svg" height=30px>
